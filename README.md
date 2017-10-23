@@ -3,7 +3,7 @@
 
 # competitive-library
 
-asi1024 様の [competitive-library](https://github.com/asi1024/competitive-library) を，MITライセンスを引き継いでフォークし，ちょっとした設定を自分用に変えたものです．ほとんどの部分はオリジナルと変わりません．基本的にオリジナルを参照．
+asi1024 様の [competitive-library](https://github.com/asi1024/competitive-library) を MIT ライセンスを引き継いでフォークし，ちょっとした設定を自分用に変えたものです．ほとんどの部分はオリジナルと変わりません．基本的にオリジナルを参照．
 
 [GitHub Pages](https://torotoki.github.io/competitive-library/)
 

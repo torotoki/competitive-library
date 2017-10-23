@@ -3,6 +3,10 @@
 
 # competitive-library
 
+asi1024 様の [competitive-library](https://github.com/asi1024/competitive-library) を，MITライセンスを引き継いでフォークし自分用に設定したものです．ほとんどの部分はオリジナルと変わらないので，基本的にそちらを参照してください．
+
+## Original README:
+
 競技プログラミング用ライブラリ管理ツール
 
 1. Fork this repository.

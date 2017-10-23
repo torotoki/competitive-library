@@ -62,7 +62,7 @@ template<int M = mod> Modulo<M, true> comb(int a, int b) {
 }
 
 template<int M = mod> Modulo<M, true> H(int a, int b) {
-  return comb(a+b-1, b);
+  return comb<M>(a+b-1, b);
 }
 
 using Mod = Modulo<mod, true>;

@@ -61,4 +61,8 @@ template<int M = mod> Modulo<M, true> comb(int a, int b) {
   return fact<M>(a, true) * fact<M>(b, false) * fact<M>(a-b, false);
 }
 
+template<int M = mod> Modulo<M, true> H(int a, int b) {
+  return comb(a+b-1, b);
+}
+
 using Mod = Modulo<mod, true>;

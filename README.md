@@ -3,9 +3,11 @@
 
 # competitive-library
 
-asi1024 様の [competitive-library](https://github.com/asi1024/competitive-library) を，MITライセンスを引き継いでフォークし自分用に設定したものです．ほとんどの部分はオリジナルと変わらないので，基本的にそちらを参照してください．
+asi1024 様の [competitive-library](https://github.com/asi1024/competitive-library) を，MITライセンスを引き継いでフォークし，ちょっとした設定を自分用に変えたものです．ほとんどの部分はオリジナルと変わりません．基本的にオリジナルを参照．
 
-## Original README:
+[GitHub Pages](https://torotoki.github.io/competitive-library/)
+
+# Original README:
 
 競技プログラミング用ライブラリ管理ツール
 

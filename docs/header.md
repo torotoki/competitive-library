@@ -1,2 +1,2 @@
 [![GitHub license](https://img.shields.io/github/license/{{ site.github.owner_name }}/{{ site.github.repository_name }}.svg)](https://github.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/master/LICENSE)
-[![Build Status](https://travis-ci.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}.svg?branch=master)](https://travis-ci.com/{{ site.github.owner_name }}/{{ site.github.repository_name }})
+[![Build Status](https://travis-ci.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}.svg?token=bHMT9ys9eTKEnpmVBwKU&branch=master)](https://travis-ci.com/{{ site.github.owner_name }}/{{ site.github.repository_name }})

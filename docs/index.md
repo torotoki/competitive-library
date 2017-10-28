@@ -53,6 +53,7 @@
 | [kmp.cpp](./cpp/include/string/kmp) | <font color="Red">No</font> |  |
 | [rolling_hash.cpp](./cpp/include/string/rolling_hash) | <font color="ForestGreen">Yes</font> | [2444.cpp](./cpp/src/2444) |
 | [suffix_array.cpp](./cpp/include/string/suffix_array) | <font color="Red">No</font> |  |
+| [trie.cpp](./cpp/include/string/trie) | <font color="Red">No</font> |  |
 
 ## Geometric Algorithms
 

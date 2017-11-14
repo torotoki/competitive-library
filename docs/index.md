@@ -26,9 +26,9 @@
 
 | Algorithm | Verified | AOJ Problems |
 |:---------:|:--------:|:------------:|
-| [bfs01.cpp](./cpp/include/graph/bfs01) | <font color="ForestGreen">Yes</font> | [2342.cpp](./cpp/src/2342)<br>[2620.cpp](./cpp/src/2620) |
+| [bfs01.cpp](./cpp/include/graph/bfs01) | <font color="ForestGreen">Yes</font> | [2342.cpp](./cpp/src/2342) |
 | [bipartite_matching.cpp](./cpp/include/graph/bipartite_matching) | <font color="ForestGreen">Yes</font> | [GRL_7_A.cpp](./cpp/src/GRL_7_A) |
-| [dijkstra.cpp](./cpp/include/graph/dijkstra) | <font color="ForestGreen">Yes</font> | [GRL_1_A.cpp](./cpp/src/GRL_1_A) |
+| [dijkstra.cpp](./cpp/include/graph/dijkstra) | <font color="ForestGreen">Yes</font> | [2620.cpp](./cpp/src/2620)<br>[CGL_1_A.cpp](./cpp/src/CGL_1_A)<br>[GRL_1_A.cpp](./cpp/src/GRL_1_A) |
 | [lca.cpp](./cpp/include/graph/lca) | <font color="ForestGreen">Yes</font> | [GRL_5_C.cpp](./cpp/src/GRL_5_C) |
 | [max_flow.cpp](./cpp/include/graph/max_flow) | <font color="ForestGreen">Yes</font> | [GRL_6_A.cpp](./cpp/src/GRL_6_A) |
 | [min_cost_flow.cpp](./cpp/include/graph/min_cost_flow) | <font color="ForestGreen">Yes</font> | [GRL_6_B.cpp](./cpp/src/GRL_6_B) |
@@ -64,7 +64,7 @@
 | [circle_tangent.cpp](./cpp/include/geometry/circle_tangent) | <font color="ForestGreen">Yes</font> | [CGL_7_F.cpp](./cpp/src/CGL_7_F)<br>[CGL_7_G.cpp](./cpp/src/CGL_7_G) |
 | [convex.cpp](./cpp/include/geometry/convex) | <font color="ForestGreen">Yes</font> | [2159.cpp](./cpp/src/2159)<br>[CGL_4_B.cpp](./cpp/src/CGL_4_B)<br>[CGL_4_C.cpp](./cpp/src/CGL_4_C) |
 | [distance.cpp](./cpp/include/geometry/distance) | <font color="ForestGreen">Yes</font> | [CGL_2_D.cpp](./cpp/src/CGL_2_D) |
-| [intersect.cpp](./cpp/include/geometry/intersect) | <font color="ForestGreen">Yes</font> | [CGL_1_A.cpp](./cpp/src/CGL_1_A)<br>[CGL_2_A.cpp](./cpp/src/CGL_2_A)<br>[CGL_2_B.cpp](./cpp/src/CGL_2_B)<br>[CGL_2_C.cpp](./cpp/src/CGL_2_C) |
+| [intersect.cpp](./cpp/include/geometry/intersect) | <font color="ForestGreen">Yes</font> | [CGL_2_A.cpp](./cpp/src/CGL_2_A)<br>[CGL_2_B.cpp](./cpp/src/CGL_2_B)<br>[CGL_2_C.cpp](./cpp/src/CGL_2_C) |
 | [polygon.cpp](./cpp/include/geometry/polygon) | <font color="ForestGreen">Yes</font> | [CGL_3_A.cpp](./cpp/src/CGL_3_A)<br>[CGL_3_C.cpp](./cpp/src/CGL_3_C)<br>[CGL_4_C.cpp](./cpp/src/CGL_4_C) |
 
 ## Others

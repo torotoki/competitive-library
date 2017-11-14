@@ -1,17 +1,18 @@
-#include "../include/graph/dijkstra.cpp"
+#include "../include/geometry/intersect.cpp"
+
+Point input() {
+  ld x, y;
+  scanf("%Lf%Lf", &x, &y);
+  return Point(x, y);
+}
 
 int main() {
-  int V, E, r, s, t, d;
-  scanf("%d%d%d", &V ,&E, &r);
-  Graph g(V);
-  while (E--) {
-    scanf("%d%d%d", &s ,&t, &d);
-    add_edge(g, s, t, d);
+  Line l(input(), input());
+  int q;
+  scanf("%d", &q);
+  while (q--) {
+    Point p = input();
+    Point res = proj(l, p);
+    printf("%.10Lf %.10Lf\n", real(res), imag(res));
   }
-  auto res = dijkstra(g, r);
-  for (int i = 0; i < V; ++i) {
-    if (res[i] == inf<int>) puts("INF");
-    else printf("%d\n", res[i]);
-  }
-  return 0;
 }
